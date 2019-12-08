@@ -1,0 +1,21 @@
+Bui Hai Dang
+0388621712
+Departing point: [1;1]
+Arriving point: [2;2]
+=
+Nguyen Minh Chinh
+0123456789
+Departing point: [2;9]
+Arriving point: [7;3]
+=
+Doan Duy Thiem
+0964750517
+Departing point: [4;6]
+Arriving point: [1;7]
+=
+Nguyen Tien Dung
+0234876122
+Departing point: [9;6]
+Arriving point: [2;8]
+=
+end
